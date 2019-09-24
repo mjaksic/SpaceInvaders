@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aa4e553b0039f7648adf7d21bd498b0f
+timeCreated: 1523203072
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletEnemy: {fileID: 1733241897679870, guid: db53981b65fdfc24b931681aec15873f,
+      type: 2}
+  - spawnerLocationLeft: {instanceID: 0}
+  - spawnerLocationMid: {instanceID: 0}
+  - spawnerLocationRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
